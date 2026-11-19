@@ -12,5 +12,7 @@ NLP – Section 3 · Option 4 · Arwa Alqahtani, Jana Algahtani, Mashael Alqahta
 ## Files
 - `Group7_Final.ipynb` – final merged notebook (Setup, Data, Method 1, Method 2, Results, Try it, Sources)
 - `Group7_Data_Arwa.ipynb` – Arwa's data section (development version)
+-  `Group7_Method1_Jana.ipynb` – Jana's Method 1: TF-IDF + logistic regression (development version)
+- `Group7_Method2_Mashael.ipynb` – Mashael's Method 2: MiniLM + logistic regression (development version)
 
 Data: ISOT Fake News Dataset – https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
